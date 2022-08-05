@@ -4,13 +4,13 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      
+
       <header className="App-header">
        <a href='/'>Amazon</a>
       </header>
 
       <main>
-        list product
+        list products
       </main>
     </div>
   );
